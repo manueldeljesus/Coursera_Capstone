@@ -2,3 +2,6 @@
 *.csv
 *json
 *hdf
+.DS_Store
+Santander_Data/
+Testing*ipynb
